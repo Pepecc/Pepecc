@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pepecc. Last year I finished DAM grade (software developer) 
+- 👋 Hi, I’m @Pepecc. In 2021 I finished DAM grade (software developer) 
 - In my repository, I will upload my personal projects
 - 👀 I’m interested in programming languages like Javascript, Python, Kotlin and Java. 
 - 🌱 I’m currently working in a project with Node JS. 
