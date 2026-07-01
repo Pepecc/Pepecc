@@ -1,6 +1,6 @@
 👋 Hi, I’m Pepe
 
-I'm a Full-Stack Software Developer with 5+ years of professional experience building enterprise applications. My background spans backend and frontend development, and I'm currently focused on developing cloud-native solutions with SAP BTP and SAP CAP, while continuing to work across the full stack.
+I'm a Full-Stack Software Developer with 5+ years of professional experience. I enjoy learning new technologies and building projects across different areas, from enterprise applications with SAP BTP to web development, AI integrations, and IoT.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
