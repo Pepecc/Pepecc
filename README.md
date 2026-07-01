@@ -1,12 +1,26 @@
 👋 Hi, I’m Pepe
 
-I’m a full-stack software developer with 4 years of professional experience.
-I started out in backend development, but over the last two years I’ve been working mainly on frontend projects, developing, deploying and maintaining production applications.
+I'm a Full-Stack Software Developer with 5+ years of professional experience building enterprise applications. My background spans backend and frontend development, and I'm currently focused on developing cloud-native solutions with SAP BTP and SAP CAP, while continuing to work across the full stack.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![SAP BTP](https://img.shields.io/badge/SAP-BTP-0FAAFF?logo=sap&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP-CAP-0FAAFF?logo=sap&logoColor=white)
 
 💼 What I do
 - Full-stack development of enterprise applications
-- Design, development and maintenance of production applications
-- Integration of AI assistants and chatbots in real business environments
+- SAP BTP and SAP CAP application development
+- Backend services and REST API development
+- Frontend development with modern JavaScript frameworks
+- Design, deployment and maintenance of production applications
+
+☁️ SAP BTP
+- Building cloud-native applications with SAP CAP
+- Developing services with Node.js and TypeScript
+- SAP BTP application deployment and integration
+- OData services and enterprise integrations
 
 🤖 AI & Chatbots
 - Corporate virtual assistant using Azure OpenAI / ChatGPT
@@ -14,12 +28,28 @@ I started out in backend development, but over the last two years I’ve been wo
 - Frontend and backend development of AI-driven solutions
 
 🛠 Tech stack
-- JavaScript / TypeScript
-- Node.js
-- React
-- REST APIs, cloud services and CI/CD
+Languages
+- JavaScript
+- TypeScript
 
-📂 Here you’ll find personal projects related to web development, backend services and frontend applications.
+Frontend
+- React
+- HTML
+- CSS
+
+Backend
+- Node.js
+- SAP CAP
+- REST APIs
+- OData
+
+Cloud & DevOps
+- SAP BTP
+- Git
+- CI/CD
+
+## 📂 About this GitHub
+Here you'll find personal projects, experiments, and ideas covering different technologies that I'm interested in—from SAP CAP and web development to IoT, automation, and anything else I enjoy building.
 
 
 <!---
